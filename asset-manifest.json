@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/survey-tiger/static/css/main.f0ec89f5.chunk.css",
+    "main.js": "/survey-tiger/static/js/main.ebcd7f3e.chunk.js",
+    "main.js.map": "/survey-tiger/static/js/main.ebcd7f3e.chunk.js.map",
+    "runtime-main.js": "/survey-tiger/static/js/runtime-main.6859db03.js",
+    "runtime-main.js.map": "/survey-tiger/static/js/runtime-main.6859db03.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/survey-tiger/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3ad06fd9.chunk.js": "/survey-tiger/static/js/2.3ad06fd9.chunk.js",
+    "static/js/2.3ad06fd9.chunk.js.map": "/survey-tiger/static/js/2.3ad06fd9.chunk.js.map",
+    "index.html": "/survey-tiger/index.html",
+    "precache-manifest.bfff7ebbe9d63c50026fe82d94f66432.js": "/survey-tiger/precache-manifest.bfff7ebbe9d63c50026fe82d94f66432.js",
+    "service-worker.js": "/survey-tiger/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/survey-tiger/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.f0ec89f5.chunk.css.map": "/survey-tiger/static/css/main.f0ec89f5.chunk.css.map",
+    "static/js/2.3ad06fd9.chunk.js.LICENSE.txt": "/survey-tiger/static/js/2.3ad06fd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6859db03.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3ad06fd9.chunk.js",
+    "static/css/main.f0ec89f5.chunk.css",
+    "static/js/main.ebcd7f3e.chunk.js"
+  ]
+}
