@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.header {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0;
+}
+.header-image img {
+  width: 80px;
+  height: 80px;
+}
+.header-text {
+  font-size: 40px;
+  margin-left: 40px;
+  font-weight: 700;
+}
+.buttons-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.button-create,
+.button-take {
+  background-color: #b06047;
+  font-size: 30px;
+  padding: 20px 40px;
+  margin-top: 40px;
+  color: white;
+}
+.question-type {
+  display: flex;
+  justify-content: center;
+}
+.single-type-question {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+.cursor-property {
+  cursor: not-allowed;
+}
+.footer-container {
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.button-publish,
+.button-add {
+  padding: 5px 20px;
+  margin: 0 10px;
+  background-color: #b06047;
+  color: white;
+}
+.options-container {
+  display: flex;
+  justify-content: center;
+}
+.options {
+  width: 350px;
+}
+.cursor-property-multi {
+  cursor: pointer;
+}
+.multiple-type-question {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
